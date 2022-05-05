@@ -23,7 +23,7 @@ python main.py > image.ppm
 ```
 and it would render an image of 700x525 with 100 samples per pixel saved as "image.ppm".
 
-You can view the image using on website "https://www.cs.rhodes.edu/welshc/COMP141_F16/ppmReader.html"
+You can view the image on website https://www.cs.rhodes.edu/welshc/COMP141_F16/ppmReader.html
 or convert it using image converter online.
 ## Final Image
 ![Image](image.jpg)
