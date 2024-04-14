@@ -1,6 +1,6 @@
 # Ray Tracing
 ## Introduction
-This project is a ray-tracer written in python.
+Rendered a scene of dielectric, diffuse, and metal spheres with reflection, shadow, and checkerboard textures using Python.
 ## Features
 - Positionable camera
 - Spheres
