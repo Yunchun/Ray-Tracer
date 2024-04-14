@@ -1,4 +1,4 @@
-# Ray Tracing
+# Ray Tracer
 ## Introduction
 Rendered a scene of dielectric, diffuse, and metal spheres with reflection, shadow, and checkerboard textures using Python.
 ## Features
